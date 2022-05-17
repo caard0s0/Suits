@@ -187,10 +187,6 @@ nav .logo {
     color: var(--brand-black);
 }
 
-nav .open-menu svg {
-    margin-left: -3.8rem;
-}
-
 nav.scroll {
     background: var(--brand-black);
 }
