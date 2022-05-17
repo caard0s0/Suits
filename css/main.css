@@ -578,7 +578,7 @@ footer .social-links {
 
 
 /*------------ RESPONSIVE - Laptops and Desktops ------------*/
-@media (min-width: 1024px) {
+@media (min-width: 2500px) {
 
     /*------------ GENERAL ------------*/
     body {
