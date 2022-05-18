@@ -33,3 +33,16 @@
  - CSS 
  - JavaScript
   
+<br> 
+
+## ➕ Differencial
+
+- [ScrollReveal Library](https://scrollrevealjs.org/)
+- [Swiper Library](https://swiperjs.com/)
+
+<br>
+
+## 📄 License
+
+MIT License © [Vinicius Cardoso](https://github.com/caard0s0)
+
